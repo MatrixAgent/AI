@@ -1,4 +1,4 @@
-# Задание 1
+# Task 6
 
 n = int(input('Number of products: '))
 i = 0

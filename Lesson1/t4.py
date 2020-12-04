@@ -1,3 +1,5 @@
+# Task 4
+
 s = input('String: ')
 l = s.split(' ')
 for i, e in enumerate(l):

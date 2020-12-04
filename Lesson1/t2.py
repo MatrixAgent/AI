@@ -1,4 +1,4 @@
-# Задание 2
+# Task 2
 
 n = int(input('Input number of list elements:'))
 l = []

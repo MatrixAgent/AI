@@ -1,4 +1,4 @@
-# Задание 3
+# Task 3
 
 # list
 n = int(input('Month:'))
